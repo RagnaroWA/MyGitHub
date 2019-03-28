@@ -5,4 +5,4 @@ GitHub App on IOS, implemented in React Native.
 
 * From the iPhone home page:
 
-![icon](/other/icon.png)
+![icon](/other/icon.png | width=100)
