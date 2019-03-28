@@ -1,2 +1,4 @@
 # MyGitHub
-GitHub App on IOS
+GitHub App on IOS, implemented in React Native.
+
+

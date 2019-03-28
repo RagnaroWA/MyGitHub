@@ -182,11 +182,6 @@ class App extends Component {
   }
 
   callApi() {
-    // auth = {
-    //   "username": 'RagnaroWA',
-    //   "token": 'b0bcc9fc100ab25f5c29413f21b01d598d147879'
-    // };
-    // axios.defaults.headers.common['Authorization'] = auth;
     var token = {
         auth: {
             username: this.state.username_login,

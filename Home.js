@@ -178,10 +178,6 @@ class Home extends Component {
   }
 
   componentWillMount() {
-    // auth = {
-    //   "username": 'RagnaroWA',
-    //   "token": 'b0bcc9fc100ab25f5c29413f21b01d598d147879'
-    // };
     // axios.defaults.headers.common['Authorization'] = auth;
     // getUsers = async () => {
     //   let result = await axios.get('https://api.github.com/users/' + 'RagnaroWA');
