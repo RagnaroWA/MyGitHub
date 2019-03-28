@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTScrollView
+  style={
+    Object {
+      "backgroundColor": "#F6F8FA",
+      "flex": 2,
+      "flexGrow": 1,
+      "marginTop": 26.68,
+      "width": 750,
+    }
+  }
+>
+  <View>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "flex-start",
+          "borderColor": "black",
+          "borderRadius": 19,
+          "borderWidth": 1,
+          "marginBottom": 40.019999999999996,
+          "marginLeft": "auto",
+          "marginRight": "auto",
+          "marginTop": 53.36,
+          "opacity": 1,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "color": "#000000",
+              "fontFamily": "Helvetica Neue",
+              "textAlign": "left",
+              "writingDirection": "ltr",
+            },
+            Object {
+              "color": "black",
+              "fontSize": 20,
+              "fontWeight": "bold",
+              "marginBottom": 13.34,
+              "marginLeft": 37.5,
+              "marginRight": 37.5,
+              "marginTop": 13.34,
+              "textAlign": "center",
+            },
+          ]
+        }
+      >
+        
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "black",
+          "height": 1,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "height": 66.7,
+        }
+      }
+    />
+  </View>
+</RCTScrollView>
+`;

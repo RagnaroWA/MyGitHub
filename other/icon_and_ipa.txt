@@ -1,0 +1,21 @@
+https://stackoverflow.com/questions/14934808/how-to-convert-xcarchive-to-ipa-for-client-to-submit-app-to-app-store-using-ap
+
+1.
+Create Xarchieve file by using Xcode, click product->archive
+first right click on xarchive file-> show in finder
+again right click on xarchive file-> show package contents
+Then open folder products->applications, here you get the your application file
+
+https://www.ibm.com/support/knowledgecenter/en/SSYJJF_1.0.0/ApplicationSecurityonCloud/asi_IPA_zip.html
+
+2.
+Create a folder named "Payload".
+Copy the .app bundle into the folder.
+Compress the folder to a ZIP file.
+Change the file extension from .zip to .ipa
+
+3.
+Xcode Window -> Devices and Simulator
+
+https://stackoverflow.com/questions/34027270/ios-launch-screen-in-react-native
+
