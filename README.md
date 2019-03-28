@@ -5,8 +5,9 @@ GitHub App on IOS, implemented in React Native.
 
 * From the iPhone home page:
 
-<img src="/other/icon.png" width="280"/>
-
+<p align="center">
+  <img src="/other/icon.png" width="280"/>
+</p>
 
 ## Login
 
